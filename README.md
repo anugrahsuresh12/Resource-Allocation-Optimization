@@ -1,4 +1,4 @@
-Resource Allocation Optimization in Healthcare 
+## Resource Allocation Optimization in Healthcare 
 
 
 This comprehensive healthcare analytics project optimized patient flow and physician utilization to reduce operational costs while maintaining high-quality care delivery. The system, named SmartStaff, transformed raw healthcare operational data into actionable recommendations for strategic resource allocation and staffing decisions.
