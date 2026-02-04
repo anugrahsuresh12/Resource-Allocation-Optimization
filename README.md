@@ -29,7 +29,7 @@ Technologies Used
 
 Key Findings & Recommendations
 
-Seasonal Staffing Optimization: Increase capacity during high-demand months (February-April), scale down during low-demand periods (June-July, November-December)
-Revenue Optimization: Prioritize inventory management for high-revenue medications and increase visibility of underutilized high-performing physicians
-Preventive Care Programs: Implement wellness initiatives during historically low-demand months to stabilize revenue and utilize spare capacity
-Data-Driven Planning: Maintain baseline staffing with continuous monitoring based on 30-day rolling forecasts
+-Seasonal Staffing Optimization: Increase capacity during high-demand months (February-April), scale down during low-demand periods (June-July, November-December)
+-Revenue Optimization: Prioritize inventory management for high-revenue medications and increase visibility of underutilized high-performing physicians
+-Preventive Care Programs: Implement wellness initiatives during historically low-demand months to stabilize revenue and utilize spare capacity
+-Data-Driven Planning: Maintain baseline staffing with continuous monitoring based on 30-day rolling forecasts
