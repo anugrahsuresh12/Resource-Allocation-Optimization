@@ -5,21 +5,21 @@ This comprehensive healthcare analytics project optimized patient flow and physi
 Key Components
 Data Analytics & Visualization
 
-Developed interactive Tableau dashboard capturing doctor utilization metrics, revenue streams by time and service type, and temporal patterns in consultation earnings
-Conducted exploratory data analysis (EDA) examining patient flow patterns, physician workload distribution, and revenue sources across medication, consultations, and laboratory services
-Created correlation heatmaps and distribution plots to identify financial impact drivers and service utilization patterns
+- Developed interactive Tableau dashboard capturing doctor utilization metrics, revenue streams by time and service type, and temporal patterns in consultation earnings.
+- Conducted exploratory data analysis (EDA) examining patient flow patterns, physician workload distribution, and revenue sources across medication, consultations, and laboratory services
+- Created correlation heatmaps and distribution plots to identify financial impact drivers and service utilization patterns
 
 Predictive Modeling
 
-Built ARIMA time-series forecasting model in Python to predict consultation revenue and identify peak-demand periods
-Generated 30-day forward-looking forecasts to support short-term operational planning
-Performed time-series decomposition analyzing trend, seasonality, and residual components
+- Built ARIMA time-series forecasting model in Python to predict consultation revenue and identify peak-demand periods
+- Generated 30-day forward-looking forecasts to support short-term operational planning
+- Performed time-series decomposition analyzing trend, seasonality, and residual components
 
 Data Management
 
-Cleaned and standardized patient visit data from Kaggle including consultation duration, doctor availability, and timestamped patient progression
-Engineered features including consultation duration and post-consultation time metrics
-Validated and normalized categorical variables (Doctor Type, Financial Class, Patient Type) ensuring data integrity
+- Cleaned and standardized patient visit data from Kaggle including consultation duration, doctor availability, and timestamped patient progression
+- Engineered features including consultation duration and post-consultation time metrics
+- Validated and normalized categorical variables (Doctor Type, Financial Class, Patient Type) ensuring data integrity
 
 Technologies Used
 
