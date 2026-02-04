@@ -23,9 +23,9 @@ Validated and normalized categorical variables (Doctor Type, Financial Class, Pa
 
 Technologies Used
 
-Tableau: Interactive visualization and dashboard development
-Python: Statistical analysis, ARIMA modeling, correlation analysis, and predictive analytics
-Excel: Data aggregation and summary statistics
+- Tableau: Interactive visualization and dashboard development
+- Python: Statistical analysis, ARIMA modeling, correlation analysis, and predictive analytics
+- Excel: Data aggregation and summary statistics
 
 Key Findings & Recommendations
 
